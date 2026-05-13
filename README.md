@@ -18,7 +18,6 @@
 Name     : David Williams
 Focus    : Cybersecurity | DevOps | DevSecOps
 Status   : Building, Breaking & Securing Systems
-Mission  : Shift security left — code safe from day one
 ```
 
 ---
