@@ -89,12 +89,6 @@ Status   : Building, Breaking & Securing Systems
 
 </div>
 
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=David-WilliamsGIT&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-
 ```
 [ SYSTEM SECURED ] — Stay curious. Stay ethical. Keep hacking. 🔒
 ```
